@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @darrenjsohn
 - 👀 I’m interested in sports analytics, mechanical keyboards, and video games.
 - 🌱 I’m currently learning Data Theory at UCLA.
-- 📫 How to reach me (714) 658-5114
+- 📫 How to reach me (714) 658-5114 or darrenjsohn@gmail.com
 
 <!---
 darrenjsohn/darrenjsohn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
