@@ -1,9 +1,12 @@
-- 👋 Hi, I’m @darrenjsohn
-- 👀 I’m interested in sports analytics, mechanical keyboards, and video games.
-- 🌱 I’m currently learning Data Theory at UCLA.
-- 📫 How to reach me (714) 658-5114 or darrenjsohn@gmail.com
+![Aspiring Data Scientist](https://github.com/darrenjsohn/myrepo/blob/main/Github%20Banner.png)
 
-<!---
-darrenjsohn/darrenjsohn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Hi there 👋, I'm Darren Sohn
+and I'm a recent UCLA graduate with a BS in Data Theory. I am looking to find a role as a data scientist in the sports analytics, media and entertainment, biotechnology, or finance. I have experience as a data analyst at Boot Barn, data blogger in UCLA DataRes, and part of the consultant for the Bruin Sports Analytics baseball division. Some of my interests when it comes to data science are natural language processing, cloud computing, and business analytics.
+
+### Skills and Experience
+Skills: Python / SQL / R / C++
+
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/darrenjsohn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/darren-sohn/)  
+
