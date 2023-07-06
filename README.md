@@ -5,6 +5,7 @@ and I'm a recent UCLA graduate with a BS in Data Theory. I am looking to find a 
 
 ### Example of Work and Projects
 Predicting Ecommerce Customer Purchasing Intent: https://github.com/darrenjsohn/darrenjsohn/blob/main/DARN_Final_Project.pdf
+Twitter Sentiment Analysis Automation: https://github.com/darrenjsohn/darrenjsohn/blob/main/twitter_scheduler.py
 
 
 ### Skills and Experience
