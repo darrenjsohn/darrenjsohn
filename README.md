@@ -1,4 +1,4 @@
-![Aspiring Data Scientist](https://github.com/darrenjsohn/myrepo/blob/main/Github%20Banner.png)
+![Aspiring Data Scientist](https://github.com/darrenjsohn/darrenjsohn/blob/main/Github%20Banner.png)
 
 ## Hi there 👋, I'm Darren Sohn
 and I'm a recent UCLA graduate with a BS in Data Theory. I am looking to find a role as a data scientist in the sports analytics, media and entertainment, biotechnology, or finance. I have experience as a data analyst at Boot Barn, data blogger in UCLA DataRes, and part of the consultant for the Bruin Sports Analytics baseball division. Some of my interests when it comes to data science are natural language processing, cloud computing, and business analytics.
